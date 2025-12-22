@@ -1,0 +1,1 @@
+A tutorial on fitting models to data in a likelihood-free setting for the CCMI CWIG learning week, 19-23rd Jan 2026. The first tutorial focuses on approximate Bayesian computation (ABC), whereas the second centres on neural network approaches to simulation based inference (SBI). Both Jupyter notebooks have been designed to run in Google Colab. 
